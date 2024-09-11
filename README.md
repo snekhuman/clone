@@ -1083,3 +1083,5 @@ $ git config --global color.ui 1
 | ----- | ---- |
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
 | Migrating to Git Large File Storate (Git LFS) | http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/ |
+
+Added commit by Kain LB as task progress
